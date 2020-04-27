@@ -18,6 +18,6 @@
 + 회원가입 이메일 중복 검사   
 ![busanlogin2](https://user-images.githubusercontent.com/60656477/80385994-c1489500-88e1-11ea-983a-457f9e936578.png)
 ### * Login 진입 화면
-+ 로그아웃 버튼 클릭 시 세션 삭제
++ 로그아웃 버튼 클릭 시 세션 삭제   
 ![log](https://user-images.githubusercontent.com/60656477/80385996-c1e12b80-88e1-11ea-8625-d092c883fff9.PNG)
 ### * Log 확인 화면(Heroku)
