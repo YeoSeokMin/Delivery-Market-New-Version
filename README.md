@@ -5,7 +5,7 @@
 
 ![busan1](https://user-images.githubusercontent.com/60656477/80385988-c0176800-88e1-11ea-8031-46f0e3b40f37.png)
 ### * Splash 화면 구성(JavaScript)   
-+
++ 자바 스크립트를 이용 타이핑하는 스플래쉬 화면
 
 ![busanlogin](https://user-images.githubusercontent.com/60656477/80385991-c1489500-88e1-11ea-97cf-00533c8cd6de.png)
 ### * Login / Register 화면
