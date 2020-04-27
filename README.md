@@ -8,11 +8,10 @@
 ![busanlogin](https://user-images.githubusercontent.com/60656477/80385991-c1489500-88e1-11ea-97cf-00533c8cd6de.png)
 ### * Login / Register 화면
 + 회원가입 시 Heroku CleanDB(MySql)로 DB값 전달
++ 로그인 시 Heroku CleanDB(MySql)과 User.email / Passward 대조
 
 + 회원가입 이메일 주소 검사
 + 회원가입 비밀번호 6자리 이상 검사
 + 회원가입 이메일 중복 검사   
-
-+ 로그인 시 Heroku CleanDB(MySql)과 User.email / Passward 대조
 ![busanlogin2](https://user-images.githubusercontent.com/60656477/80385994-c1489500-88e1-11ea-983a-457f9e936578.png)
 ![log](https://user-images.githubusercontent.com/60656477/80385996-c1e12b80-88e1-11ea-8625-d092c883fff9.PNG)
