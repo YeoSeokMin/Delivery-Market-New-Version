@@ -2,6 +2,7 @@
 ## [Demo Link](https://yeoseokmin2.herokuapp.com/)
 ### HTML / CSS / JavaScript / Node.js / MySql를 이용한 로그인 / 회원가입 기능 구현
 ### Hosting : Heroku(ClearDB MySQL)
+### 부트스트랩 
 
 ![busan1](https://user-images.githubusercontent.com/60656477/80385988-c0176800-88e1-11ea-8031-46f0e3b40f37.png)
 ### * Splash 화면 구성(JavaScript)   
