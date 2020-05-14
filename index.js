@@ -40,7 +40,11 @@ const ifLoggedin = (req,res,next) => {
 
 //스플래시 페이지
 app.get('/', function(req, res){
-    res.sendFile(__dirname + '/splash.html');
+    res.sendFile(__dirname + '/views/splash.html');
+});
+//메인 페이지
+app.get('/main', function(req, res){
+    res.sendFile(__dirname + '/views/main.html');
 });
 
 // ID확인 SELECT 문
